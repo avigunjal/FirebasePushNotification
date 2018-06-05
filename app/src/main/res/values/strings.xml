@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebasePushNotification</string>
+    <string name="fcm_pref">com.firebasepushnotification.fcm_pref</string>
+    <string name="fcm_token">com.firebasepushnotification.fcm_token</string>
+</resources>
